@@ -1,2 +1,2 @@
-# UPSC-Test-Series
-All Type Competitive Exams Material &amp; Test Series WTA ACADEMY
+git clone https://github.com/your-username/testbook-clone.git
+cd testbook-clone
